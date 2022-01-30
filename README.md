@@ -7,7 +7,6 @@ Provider used in this project are from [VirusTotal.com](https://virustotal.com) 
 For early testing, you can download the APK <a href="https://drive.google.com/file/d/1QaXzWSh9kuF7Cc30ftZ8gARnh5xTCg0b/view?usp=sharing">here</a>
 
 ## <b>How to build this project</b>
-#
 1. Do `git pull` to your local drive by execute this command below on your empty repo folder
 <br></br>
 `cd /FILE/TO_YOUR/DIRPATH`
@@ -21,7 +20,6 @@ For early testing, you can download the APK <a href="https://drive.google.com/fi
 4. The APK file will appear as `app-release.apk` in `build/app/outputs/flutter-apk` directory.
 
 ## <b>How to get your VirusTotal API Token</b>
-#
 1. Create your VirusTotal account
 2. Click on your account and select API Key
    <br></br>
